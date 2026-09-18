@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xhmnytmhh.github.io/sitemap.xml
